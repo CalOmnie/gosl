@@ -4,7 +4,7 @@
 
 package utl
 
-import "github.com/cpmech/gosl/io"
+import "github.com/CalOmnie/gosl/io"
 
 // MatToArray converts a matrix into a column-major array
 func MatToArray(a [][]float64) (v []float64) {

@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"runtime/pprof"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/CalOmnie/gosl/chk"
+	"github.com/CalOmnie/gosl/io"
 )
 
 // Prof runs either CPU profiling or MEM profiling

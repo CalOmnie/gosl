@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/utl"
+	"github.com/CalOmnie/gosl/chk"
+	"github.com/CalOmnie/gosl/io"
+	"github.com/CalOmnie/gosl/utl"
 )
 
 func TestWaterfall01(tst *testing.T) {

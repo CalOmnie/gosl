@@ -7,9 +7,9 @@ package plt
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/utl"
+	"github.com/CalOmnie/gosl/chk"
+	"github.com/CalOmnie/gosl/io"
+	"github.com/CalOmnie/gosl/utl"
 )
 
 // Waterfall draws parallel lines @ t along x with height = z. z[len(t)][len(x)]

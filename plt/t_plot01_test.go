@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/utl"
+	"github.com/CalOmnie/gosl/chk"
+	"github.com/CalOmnie/gosl/utl"
 )
 
 func Test_args01(tst *testing.T) {

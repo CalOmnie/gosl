@@ -7,7 +7,7 @@ package plt
 import (
 	"math"
 
-	"github.com/cpmech/gosl/io"
+	"github.com/CalOmnie/gosl/io"
 )
 
 // TexPiRadFmt formats number in radians/pi notation

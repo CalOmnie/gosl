@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/CalOmnie/gosl/chk"
 )
 
 // ParetoMin compares two vectors using Pareto's optimal criterion

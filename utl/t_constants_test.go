@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/CalOmnie/gosl/chk"
+	"github.com/CalOmnie/gosl/io"
 )
 
 func Test_constants(tst *testing.T) {
